@@ -2,6 +2,7 @@ services:
   - type: web
     name: t20-score-predictor
     runtime: node
+    plan: free
     rootDir: t20-score-predictor
     buildCommand: npm install
     startCommand: npm start
@@ -17,5 +18,6 @@ services:
 
 databases:
   - name: t20-score-db
+    plan: free
     databaseName: t20score
     user: t20score
