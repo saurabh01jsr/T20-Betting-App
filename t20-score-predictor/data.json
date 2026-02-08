@@ -1,0 +1,1689 @@
+{
+  "settings": {
+    "roomName": "T20 Score Predictions",
+    "usePin": false,
+    "adminPinHash": null,
+    "bonusExact": 0,
+    "minScore": 60,
+    "maxScore": 300,
+    "lockMinutesBeforeStart": 15,
+    "scheduleSource": "Fixture Download (ICC schedule)",
+    "lastScheduleSync": "2026-02-04T21:45:02.113Z",
+    "tossAutoEnabled": true,
+    "tossAutoSource": "Goalserve",
+    "lastTossSync": null
+  },
+  "players": [
+    {
+      "id": "player_ml8jcyoz_7lfqhy",
+      "name": "Usama"
+    },
+    {
+      "id": "player_ml8jcyoz_tk6hpp",
+      "name": "Aun"
+    },
+    {
+      "id": "player_ml8jcyoz_fnxm86",
+      "name": "Khider"
+    },
+    {
+      "id": "player_ml8jcyoz_rgc0rv",
+      "name": "Saurabh"
+    }
+  ],
+  "matches": [
+    {
+      "id": "match_ml8jczg5_dnl8xj",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": {
+        "winner": "Netherlands",
+        "decision": "field"
+      },
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-07T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_1",
+      "matchNumber": 1,
+      "roundNumber": 1,
+      "teamA": "Pakistan",
+      "teamB": "Netherlands",
+      "venue": "Sinhalese Sports Club, Colombo",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-07T05:30:00.000Z",
+      "lockTime": "2026-02-07T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg5_vgyrl4",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-07T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_2",
+      "matchNumber": 2,
+      "roundNumber": 1,
+      "teamA": "West Indies",
+      "teamB": "Scotland",
+      "venue": "Eden Gardens, Kolkata",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-07T09:30:00.000Z",
+      "lockTime": "2026-02-07T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg5_74kd50",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-07T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_3",
+      "matchNumber": 3,
+      "roundNumber": 1,
+      "teamA": "India",
+      "teamB": "USA",
+      "venue": "Wankhede Stadium, Mumbai",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-07T13:30:00.000Z",
+      "lockTime": "2026-02-07T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg5_udis9u",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-08T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_4",
+      "matchNumber": 4,
+      "roundNumber": 1,
+      "teamA": "New Zealand",
+      "teamB": "Afghanistan",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-08T05:30:00.000Z",
+      "lockTime": "2026-02-08T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg5_0dcu3s",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-08T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_5",
+      "matchNumber": 5,
+      "roundNumber": 1,
+      "teamA": "England",
+      "teamB": "Nepal",
+      "venue": "Wankhede Stadium, Mumbai",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-08T09:30:00.000Z",
+      "lockTime": "2026-02-08T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_5g8dfo",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-08T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_6",
+      "matchNumber": 6,
+      "roundNumber": 1,
+      "teamA": "Sri Lanka",
+      "teamB": "Ireland",
+      "venue": "R.Premadasa Stadium, Colombo",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-08T13:30:00.000Z",
+      "lockTime": "2026-02-08T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_fug13o",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-09T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_8",
+      "matchNumber": 8,
+      "roundNumber": 1,
+      "teamA": "Zimbabwe",
+      "teamB": "Oman",
+      "venue": "Sinhalese Sports Club, Colombo",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-09T09:30:00.000Z",
+      "lockTime": "2026-02-09T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_afq10z",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-09T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_9",
+      "matchNumber": 9,
+      "roundNumber": 1,
+      "teamA": "South Africa",
+      "teamB": "Canada",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-09T13:30:00.000Z",
+      "lockTime": "2026-02-09T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_6g8ihg",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-09T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_7",
+      "matchNumber": 7,
+      "roundNumber": 2,
+      "teamA": "Scotland",
+      "teamB": "Italy",
+      "venue": "Eden Gardens, Kolkata",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-09T05:30:00.000Z",
+      "lockTime": "2026-02-09T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_1a4g3u",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-10T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_10",
+      "matchNumber": 10,
+      "roundNumber": 2,
+      "teamA": "Netherlands",
+      "teamB": "Namibia",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-10T05:30:00.000Z",
+      "lockTime": "2026-02-10T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_xr3gpg",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-10T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_11",
+      "matchNumber": 11,
+      "roundNumber": 2,
+      "teamA": "New Zealand",
+      "teamB": "United Arab Emirates",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-10T09:30:00.000Z",
+      "lockTime": "2026-02-10T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_9mjcw4",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-10T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_12",
+      "matchNumber": 12,
+      "roundNumber": 2,
+      "teamA": "Pakistan",
+      "teamB": "USA",
+      "venue": "Sinhalese Sports Club, Colombo",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-10T13:30:00.000Z",
+      "lockTime": "2026-02-10T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_rz60oz",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-11T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_13",
+      "matchNumber": 13,
+      "roundNumber": 2,
+      "teamA": "South Africa",
+      "teamB": "Afghanistan",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-11T05:30:00.000Z",
+      "lockTime": "2026-02-11T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_8ltb7p",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-11T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_14",
+      "matchNumber": 14,
+      "roundNumber": 2,
+      "teamA": "Australia",
+      "teamB": "Ireland",
+      "venue": "R.Premadasa Stadium, Colombo",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-11T09:30:00.000Z",
+      "lockTime": "2026-02-11T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_v2hsd5",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-11T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_15",
+      "matchNumber": 15,
+      "roundNumber": 2,
+      "teamA": "England",
+      "teamB": "West Indies",
+      "venue": "Wankhede Stadium, Mumbai",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-11T13:30:00.000Z",
+      "lockTime": "2026-02-11T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_pstpyi",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-12T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_16",
+      "matchNumber": 16,
+      "roundNumber": 2,
+      "teamA": "Sri Lanka",
+      "teamB": "Oman",
+      "venue": "Pallekele International Cricket Stadium, Kandy",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-12T05:30:00.000Z",
+      "lockTime": "2026-02-12T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_txssll",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-12T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_17",
+      "matchNumber": 17,
+      "roundNumber": 3,
+      "teamA": "Nepal",
+      "teamB": "Italy",
+      "venue": "Wankhede Stadium, Mumbai",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-12T09:30:00.000Z",
+      "lockTime": "2026-02-12T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_w0skdc",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-12T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_18",
+      "matchNumber": 18,
+      "roundNumber": 3,
+      "teamA": "India",
+      "teamB": "Namibia",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-12T13:30:00.000Z",
+      "lockTime": "2026-02-12T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_7tp3yr",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-13T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_19",
+      "matchNumber": 19,
+      "roundNumber": 3,
+      "teamA": "Australia",
+      "teamB": "Zimbabwe",
+      "venue": "R.Premadasa Stadium, Colombo",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-13T05:30:00.000Z",
+      "lockTime": "2026-02-13T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_6x2x2f",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-13T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_20",
+      "matchNumber": 20,
+      "roundNumber": 3,
+      "teamA": "Canada",
+      "teamB": "United Arab Emirates",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-13T09:30:00.000Z",
+      "lockTime": "2026-02-13T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_9pg61w",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-13T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_21",
+      "matchNumber": 21,
+      "roundNumber": 3,
+      "teamA": "USA",
+      "teamB": "Netherlands",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-13T13:30:00.000Z",
+      "lockTime": "2026-02-13T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg6_x7pwja",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-14T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_22",
+      "matchNumber": 22,
+      "roundNumber": 3,
+      "teamA": "Ireland",
+      "teamB": "Oman",
+      "venue": "Sinhalese Sports Club, Colombo",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-14T05:30:00.000Z",
+      "lockTime": "2026-02-14T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_kbiebc",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-14T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_23",
+      "matchNumber": 23,
+      "roundNumber": 3,
+      "teamA": "England",
+      "teamB": "Scotland",
+      "venue": "Eden Gardens, Kolkata",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-14T09:30:00.000Z",
+      "lockTime": "2026-02-14T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_vb63qq",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-14T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_24",
+      "matchNumber": 24,
+      "roundNumber": 3,
+      "teamA": "New Zealand",
+      "teamB": "South Africa",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-14T13:30:00.000Z",
+      "lockTime": "2026-02-14T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_rrr22o",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-15T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_25",
+      "matchNumber": 25,
+      "roundNumber": 4,
+      "teamA": "West Indies",
+      "teamB": "Nepal",
+      "venue": "Wankhede Stadium, Mumbai",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-15T05:30:00.000Z",
+      "lockTime": "2026-02-15T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_ppitzy",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-15T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_26",
+      "matchNumber": 26,
+      "roundNumber": 4,
+      "teamA": "USA",
+      "teamB": "Namibia",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-15T09:30:00.000Z",
+      "lockTime": "2026-02-15T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_zld4in",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-15T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_27",
+      "matchNumber": 27,
+      "roundNumber": 4,
+      "teamA": "India",
+      "teamB": "Pakistan",
+      "venue": "R.Premadasa Stadium, Colombo",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-15T13:30:00.000Z",
+      "lockTime": "2026-02-15T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_o7e6q0",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-16T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_28",
+      "matchNumber": 28,
+      "roundNumber": 4,
+      "teamA": "Afghanistan",
+      "teamB": "United Arab Emirates",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-16T05:30:00.000Z",
+      "lockTime": "2026-02-16T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_i0197p",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-16T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_29",
+      "matchNumber": 29,
+      "roundNumber": 4,
+      "teamA": "England",
+      "teamB": "Italy",
+      "venue": "Eden Gardens, Kolkata",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-16T09:30:00.000Z",
+      "lockTime": "2026-02-16T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_bluhvl",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-16T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_30",
+      "matchNumber": 30,
+      "roundNumber": 4,
+      "teamA": "Australia",
+      "teamB": "Sri Lanka",
+      "venue": "Pallekele International Cricket Stadium, Kandy",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-16T13:30:00.000Z",
+      "lockTime": "2026-02-16T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_z3htbi",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-17T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_31",
+      "matchNumber": 31,
+      "roundNumber": 4,
+      "teamA": "New Zealand",
+      "teamB": "Canada",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-17T05:30:00.000Z",
+      "lockTime": "2026-02-17T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_n92u6y",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-17T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_32",
+      "matchNumber": 32,
+      "roundNumber": 4,
+      "teamA": "Ireland",
+      "teamB": "Zimbabwe",
+      "venue": "Pallekele International Cricket Stadium, Kandy",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-17T09:30:00.000Z",
+      "lockTime": "2026-02-17T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_hx1pif",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-17T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_33",
+      "matchNumber": 33,
+      "roundNumber": 5,
+      "teamA": "Scotland",
+      "teamB": "Nepal",
+      "venue": "Wankhede Stadium, Mumbai",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-17T13:30:00.000Z",
+      "lockTime": "2026-02-17T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_aax43k",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-18T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_34",
+      "matchNumber": 34,
+      "roundNumber": 5,
+      "teamA": "South Africa",
+      "teamB": "United Arab Emirates",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-18T05:30:00.000Z",
+      "lockTime": "2026-02-18T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_pbkp6d",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-18T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_35",
+      "matchNumber": 35,
+      "roundNumber": 5,
+      "teamA": "Pakistan",
+      "teamB": "Namibia",
+      "venue": "Sinhalese Sports Club, Colombo",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-18T09:30:00.000Z",
+      "lockTime": "2026-02-18T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_f5u5l0",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-18T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_36",
+      "matchNumber": 36,
+      "roundNumber": 5,
+      "teamA": "India",
+      "teamB": "Netherlands",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "group": "Group A",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-18T13:30:00.000Z",
+      "lockTime": "2026-02-18T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_zl4phq",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-19T05:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_37",
+      "matchNumber": 37,
+      "roundNumber": 5,
+      "teamA": "West Indies",
+      "teamB": "Italy",
+      "venue": "Eden Gardens, Kolkata",
+      "group": "Group C",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-19T05:30:00.000Z",
+      "lockTime": "2026-02-19T05:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_vyi7ma",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-19T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_38",
+      "matchNumber": 38,
+      "roundNumber": 5,
+      "teamA": "Sri Lanka",
+      "teamB": "Zimbabwe",
+      "venue": "R.Premadasa Stadium, Colombo",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-19T09:30:00.000Z",
+      "lockTime": "2026-02-19T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_6o5roq",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-19T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_39",
+      "matchNumber": 39,
+      "roundNumber": 5,
+      "teamA": "Afghanistan",
+      "teamB": "Canada",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "group": "Group D",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-19T13:30:00.000Z",
+      "lockTime": "2026-02-19T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_4816zu",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-20T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_40",
+      "matchNumber": 40,
+      "roundNumber": 5,
+      "teamA": "Australia",
+      "teamB": "Oman",
+      "venue": "Pallekele International Cricket Stadium, Kandy",
+      "group": "Group B",
+      "stage": "Group Stage",
+      "matchDate": "2026-02-20T13:30:00.000Z",
+      "lockTime": "2026-02-20T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_ai06u5",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-21T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_41",
+      "matchNumber": 41,
+      "roundNumber": 6,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "R.Premadasa Stadium, Colombo",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-02-21T13:30:00.000Z",
+      "lockTime": "2026-02-21T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_l37p45",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-22T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_42",
+      "matchNumber": 42,
+      "roundNumber": 6,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "Pallekele International Cricket Stadium, Kandy",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-02-22T09:30:00.000Z",
+      "lockTime": "2026-02-22T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_fomm9r",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-22T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_43",
+      "matchNumber": 43,
+      "roundNumber": 6,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-02-22T13:30:00.000Z",
+      "lockTime": "2026-02-22T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_fh9ia9",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-23T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_44",
+      "matchNumber": 44,
+      "roundNumber": 6,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "Wankhede Stadium, Mumbai",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-02-23T13:30:00.000Z",
+      "lockTime": "2026-02-23T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_r903ic",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-24T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_45",
+      "matchNumber": 45,
+      "roundNumber": 7,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "Pallekele International Cricket Stadium, Kandy",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-02-24T13:30:00.000Z",
+      "lockTime": "2026-02-24T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_cgj10q",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-25T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_46",
+      "matchNumber": 46,
+      "roundNumber": 7,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "R.Premadasa Stadium, Colombo",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-02-25T13:30:00.000Z",
+      "lockTime": "2026-02-25T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_j6ez7p",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-26T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_47",
+      "matchNumber": 47,
+      "roundNumber": 7,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-02-26T09:30:00.000Z",
+      "lockTime": "2026-02-26T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_5yg6nv",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-26T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_48",
+      "matchNumber": 48,
+      "roundNumber": 7,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-02-26T13:30:00.000Z",
+      "lockTime": "2026-02-26T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_t2rgd8",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-27T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_49",
+      "matchNumber": 49,
+      "roundNumber": 8,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "R.Premadasa Stadium, Colombo",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-02-27T13:30:00.000Z",
+      "lockTime": "2026-02-27T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_ghj5hv",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-02-28T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_50",
+      "matchNumber": 50,
+      "roundNumber": 8,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "Pallekele International Cricket Stadium, Kandy",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-02-28T13:30:00.000Z",
+      "lockTime": "2026-02-28T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_cmfynd",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-03-01T09:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_51",
+      "matchNumber": 51,
+      "roundNumber": 8,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-03-01T09:30:00.000Z",
+      "lockTime": "2026-03-01T09:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_y0xcok",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-03-01T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_52",
+      "matchNumber": 52,
+      "roundNumber": 8,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "Eden Gardens, Kolkata",
+      "group": null,
+      "stage": "Super 8",
+      "matchDate": "2026-03-01T13:30:00.000Z",
+      "lockTime": "2026-03-01T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_xue6fh",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-03-04T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_53",
+      "matchNumber": 53,
+      "roundNumber": 9,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "TBC",
+      "group": null,
+      "stage": "Semi Final",
+      "matchDate": "2026-03-04T13:30:00.000Z",
+      "lockTime": "2026-03-04T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg7_sz8iou",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-03-05T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_54",
+      "matchNumber": 54,
+      "roundNumber": 9,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "Wankhede Stadium, Mumbai",
+      "group": null,
+      "stage": "Semi Final",
+      "matchDate": "2026-03-05T13:30:00.000Z",
+      "lockTime": "2026-03-05T13:15:00.000Z"
+    },
+    {
+      "id": "match_ml8jczg9_wmstlu",
+      "status": "open",
+      "predictions": {
+        "innings1": {},
+        "innings2": {}
+      },
+      "result": null,
+      "toss": null,
+      "innings1": {
+        "status": "open",
+        "lockTime": "2026-03-08T13:15:00.000Z",
+        "score": null
+      },
+      "innings2": {
+        "status": "pending",
+        "lockTime": null,
+        "score": null
+      },
+      "externalId": "fixture_55",
+      "matchNumber": 55,
+      "roundNumber": 10,
+      "teamA": "To be announced",
+      "teamB": "To be announced",
+      "venue": "TBC",
+      "group": null,
+      "stage": "Final",
+      "matchDate": "2026-03-08T13:30:00.000Z",
+      "lockTime": "2026-03-08T13:15:00.000Z"
+    }
+  ]
+}

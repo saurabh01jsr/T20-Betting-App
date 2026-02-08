@@ -1,0 +1,16 @@
+{
+  "name": "t20-score-predictor",
+  "version": "1.0.0",
+  "description": "Simple web app for T20 match score predictions among friends.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "fast-xml-parser": "^4.3.6",
+    "pg": "^8.11.5"
+  }
+}

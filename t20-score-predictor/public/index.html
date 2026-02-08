@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>T20 Score Predictor</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="orb orb-one"></div>
+    <div class="orb orb-two"></div>
+
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo-mark">T20</div>
+        <div>
+          <p class="eyebrow">World Cup 2026</p>
+          <h1 id="room-name">T20 Score Predictor</h1>
+        </div>
+      </div>
+      <div class="controls">
+        <label class="control">
+          <span>Your name</span>
+          <select id="player-select"></select>
+        </label>
+        <label class="control">
+          <span>Admin PIN</span>
+          <input id="admin-pin" type="password" placeholder="Optional" />
+        </label>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero card">
+        <div class="hero-copy">
+          <span class="pill">Closest-score betting</span>
+          <h2>Predict fast, lock before the toss, and crown the winner.</h2>
+          <p class="muted">
+            Schedule sync keeps everything pre-filled. Scores are locked automatically before each match.
+          </p>
+          <div class="hero-actions">
+            <button id="sync-schedule" class="primary">Sync Official Schedule</button>
+            <button id="sync-toss" class="ghost">Sync Toss Now</button>
+            <button id="toggle-setup" class="ghost">Edit room</button>
+          </div>
+          <div id="schedule-meta" class="meta"></div>
+        </div>
+        <div class="hero-stats">
+          <div class="stat">
+            <span class="stat-label">Matches loaded</span>
+            <span id="stat-total" class="stat-value">0</span>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Upcoming</span>
+            <span id="stat-upcoming" class="stat-value">0</span>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Locked</span>
+            <span id="stat-locked" class="stat-value">0</span>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Scored</span>
+            <span id="stat-scored" class="stat-value">0</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="layout">
+        <div class="column">
+          <section id="setup" class="card">
+            <div class="section-head">
+              <h3>Room Setup</h3>
+              <span class="section-hint">Running setup resets players & matches.</span>
+            </div>
+            <form id="setup-form">
+              <div class="grid">
+                <label>
+                  Room name
+                  <input name="roomName" placeholder="T20 World Cup 2026" />
+                </label>
+                <label>
+                  Bonus points for exact score
+                  <input name="bonusExact" type="number" min="0" value="0" />
+                </label>
+                <label>
+                  Minimum valid score
+                  <input name="minScore" type="number" min="0" value="60" />
+                </label>
+                <label>
+                  Maximum valid score
+                  <input name="maxScore" type="number" min="0" value="300" />
+                </label>
+                <label>
+                  Lock predictions (minutes before start)
+                  <input name="lockMinutesBeforeStart" type="number" min="0" value="15" />
+                </label>
+              </div>
+              <div class="grid four">
+                <label>
+                  Player 1
+                  <input name="player1" placeholder="Friend name" required />
+                </label>
+                <label>
+                  Player 2
+                  <input name="player2" placeholder="Friend name" required />
+                </label>
+                <label>
+                  Player 3
+                  <input name="player3" placeholder="Friend name" required />
+                </label>
+                <label>
+                  Player 4
+                  <input name="player4" placeholder="Friend name" required />
+                </label>
+              </div>
+              <div class="grid">
+                <label class="checkbox">
+                  <input name="usePin" type="checkbox" />
+                  Require admin PIN for match setup
+                </label>
+                <label>
+                  Admin PIN
+                  <input name="adminPin" type="password" placeholder="Set a PIN" />
+                </label>
+                <label class="checkbox">
+                  <input name="importSchedule" type="checkbox" checked />
+                  Import official schedule now
+                </label>
+              </div>
+              <button type="submit" class="primary">Create Room</button>
+            </form>
+          </section>
+
+          <section class="card">
+            <div class="section-head">
+              <h3>Scoreboard</h3>
+              <span class="section-hint">Total points & precision.</span>
+            </div>
+            <div id="scoreboard"></div>
+          </section>
+        </div>
+
+        <div class="column">
+          <section class="card">
+            <div class="section-head">
+              <h3>Match Center</h3>
+              <span class="section-hint">Focus on what's next. Expand when needed.</span>
+            </div>
+            <div class="view-tabs">
+              <button class="tab" data-view="focus">Focus</button>
+              <button class="tab" data-view="upcoming">Upcoming</button>
+              <button class="tab" data-view="completed">Completed</button>
+            </div>
+            <div id="matches" class="stack"></div>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Local demo app. Data stays on this machine in <code>data.json</code>.</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

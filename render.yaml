@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: t20-score-predictor
+    runtime: node
+    rootDir: t20-score-predictor
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: t20-score-db
+          property: connectionString
+      - key: SCHEDULE_FEED_URL
+        value: https://fixturedownload.com/feed/json/mens-t20-world-cup-2026
+
+databases:
+  - name: t20-score-db
+    databaseName: t20score
+    user: t20score
